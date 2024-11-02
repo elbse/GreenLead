@@ -184,14 +184,18 @@ body{
     color: #4fa144;
 }
 
+
 .containerMis h1{
     font-size: 50px;
-    text-align: left;
+    text-align: center;
+   
    
 }
 
 .containerMis p{
-    width: 500px;
+    width: 100%;
+    justify-content: center;
+    margin-left: 5%;
    
 }
 
@@ -207,10 +211,16 @@ body{
     height: 20px;   
 }
 
+.containerMis{
+   text-align: center;
+}
+
 
 .buttons{
     display: inline-block;
 }
+
+
 
 .btn {
     padding: 10px 20px;
@@ -279,6 +289,9 @@ body{
     display: flex;
     flex-direction: column;
     padding: 10px;
+    margin-left: 43%;
+    text-align: center;
+    
    
 
 
