@@ -18,9 +18,11 @@ This website was created with a focus on sustainability, design, and user-friend
 - **CSS**: For styling and layout, ensuring a clean and visually appealing design.
 - **JavaScript (Optional)**: If additional interactive elements are added, such as animations or dynamic content.(I'll be adding soon)
 
-## Installation and Usage
+## Status
 
-1. **Clone the Repository**: Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/green-leaf.git
+🚧 Work in Progress: This project is still under active development. More features and content will be added soon!
+
+
+
+
 
