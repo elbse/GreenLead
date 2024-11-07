@@ -3,6 +3,7 @@
 *{
    padding: 0;
    margin: 0;
+   
 }
 
 body{
@@ -167,21 +168,25 @@ body{
     font-weight: bold;
     border-radius: 5px;
     border: none;
-   
     height: 40px;
     width: 150px;
 }
 
 .product1 button:hover{
-    color: #4fa144;
+    color: white;
+    background-color: #4fa144;
+
 }
 
 .product2 button:hover{
-    color: #4fa144;
+    color: white;
+    background-color: #4fa144;
 }
 
+
 .product3 button:hover{
-    color: #4fa144;
+    color: white;
+    background-color: #4fa144;
 }
 
 
@@ -330,7 +335,8 @@ body{
 }
 
 .containerCon button:hover{
-    color: #4fa144;
+    color: white;
+    background-color: #4fa144;
 }
 
 .containerCon input{
