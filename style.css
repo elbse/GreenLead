@@ -383,3 +383,9 @@ body{
     width: 30%;
     height: 30px;
 }
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+    size: 10;
+}
