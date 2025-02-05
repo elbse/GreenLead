@@ -207,7 +207,7 @@ body{
 .containerMis{
     margin: auto;
     height: 500px;
-    padding: 0 20px;
+    padding: 50px 20px;
 }
 
 
@@ -263,7 +263,7 @@ body{
 
 .containerMis{
     background-color: rgb(240, 253, 244); 
-    height: 20%;
+    height: 50%;
   
 }
 
@@ -287,7 +287,7 @@ body{
     font-weight: bold;
 }
 
-/* Enhanced styles */
+
 .form-container {
     display: flex;
     justify-content: center;
@@ -358,7 +358,7 @@ body{
 
 .containerCon{
     height: 7vh;
-    margin-top: -40px;
+    margin-top: 40px;
 }
 
 .containerCon button{
@@ -385,7 +385,7 @@ body{
 }
 
 .footer{
-    margin-top: 50px;
+    padding: 40px;
     text-align: center;
     size: 10;
 }
